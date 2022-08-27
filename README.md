@@ -6,14 +6,17 @@ We hope this project will get praised by others in the Progressbar95 community. 
 
 # The Team:
 Mod Owner:
-Greex
+GreexHead
 
 Coders:
-Catafrancia123
+Catafrancia123,
 Anananel
 
 Assistants:
-Luihum
+luihum
+
+Translators:
+NekoSam395
 
 Our team is currently small, but our hopes are still high!
 
