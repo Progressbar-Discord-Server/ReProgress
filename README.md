@@ -17,6 +17,5 @@ Luihum
 
 Our team is currently small, but our hopes are still high!
 
-# Copyright
+# License
 Under the MIT License, you can publish, sell, edit this in private, etc.  
-© 2022 Progressbar Discord Server, All Rights Reserved.
